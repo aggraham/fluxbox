@@ -1,0 +1,21 @@
+=== TODO ===
+* pager (fbpager)
+* iconbar
+* try using awn
+* wbar
+* xcompmgr
+* don't show title bar on certain windows: http://fluxbox-wiki.org/index.php?title=Borderless_windows
+* edit menu
+* add mouse clicks
+* add pager and clock
+* modify toolbar settings in init
+* set wallpaper from startup
+* add startup scripts
+* for fonts: http://menzonius.wordpress.com/2006/07/12/arch-linux-fluxbox-nice-gtk-fonts/
+
+=== DONE ===
+* focus follows mouse
+
+
+== GUIDES ==
+* http://urukrama.wordpress.com/openbox-guide/
