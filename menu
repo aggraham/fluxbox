@@ -1,3 +1,12 @@
-[begin] (fluxbox)
-[include] (/etc/X11/fluxbox/fluxbox-menu)
+[begin] (mymenu)
+[exec] (Terminal) {gnome-terminal}
+[exec] (Chromium) {chromium-browser}
+[nop] (----------)
+[submenu] (fluxbox)
+	[include] (/etc/X11/fluxbox/fluxbox-menu)
+	[end]
+[nop] (----------)
+[reconfigure] (Reconfigure)
+[restart] (Restart)
+[exit] (Exit)
 [end]

@@ -24,6 +24,10 @@ OnTitlebar Double Mouse1 :Shade
 # right click on the titlebar for a menu of options
 OnTitlebar Mouse3 :WindowMenu
 
+# my custom options
+OnTitlebar Mouse2 :Stick
+OnTitlebar Mouse5 :Minimize
+
 # alt-tab
 Mod1 Tab :NextWindow {groups}
 Mod1 Shift Tab :PrevWindow {groups}

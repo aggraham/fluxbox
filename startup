@@ -16,6 +16,10 @@ xmodmap "/home/grahaag1/.Xmodmap"
 # idesk &
 
 gnome-settings-daemon &
+xcompmgr -c &
+nm-applet --sm-disable &
+gnome-power-manager &
+update-notifier &
 
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.

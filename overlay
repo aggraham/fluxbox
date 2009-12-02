@@ -1,2 +1,6 @@
 ! The following line will prevent styles from setting the background.
 ! background: none
+
+*font: AvantGarde LT Medium-7.4
+background: centered
+background.pixmap: ~/.fluxbox/backgrounds/future.jpg
