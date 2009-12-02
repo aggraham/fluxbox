@@ -1,7 +1,6 @@
 === TODO ===
 * pager (fbpager)
 * iconbar
-* try using awn
 * wbar
 * don't show title bar on certain windows: http://fluxbox-wiki.org/index.php?title=Borderless_windows
 * edit menu
@@ -10,12 +9,6 @@
 * modify toolbar settings in init
 * add startup scripts
 * for fonts: http://menzonius.wordpress.com/2006/07/12/arch-linux-fluxbox-nice-gtk-fonts/
-* add to github
-
-=== DONE ===
-* focus follows mouse
-* xcompmgr
-* set wallpaper from startup
 
 == GUIDES ==
 * http://urukrama.wordpress.com/openbox-guide/
