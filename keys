@@ -26,6 +26,7 @@ OnTitlebar Mouse3 :WindowMenu
 
 # my custom options
 OnTitlebar Mouse2 :Stick
+OnTitlebar Mouse4 :Minimize
 OnTitlebar Mouse5 :Minimize
 
 # alt-tab

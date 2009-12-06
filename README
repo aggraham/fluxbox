@@ -16,3 +16,5 @@
 == DEPENDENCIES ==
 * xcompmgr
 * feh
+* gtk-chtheme
+* gnome-color-chooser

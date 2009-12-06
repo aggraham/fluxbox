@@ -1,4 +1,4 @@
-fbpager.alpha: 144
+fbpager.alpha: 50
 fbpager.x: 0
 fbpager.y: 0
 fbpager.workspace.width: 32
@@ -21,7 +21,7 @@ fbpager.windowColor: white
 fbpager.focusedWindowColor: white
 fbpager.windowBorderColor: black
 fbpager.backgroundColor: darkgray
-fbpager.currentBackgroundColor: lightgray
+fbpager.currentBackgroundColor: transparent
 fbpager.multiClickTime: 250
 fbpager.icons: false
 fbpager.windowBorderWidth: 1

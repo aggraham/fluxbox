@@ -1,6 +1,8 @@
 [begin] (mymenu)
 [exec] (Terminal) {gnome-terminal}
 [exec] (Chromium) {chromium-browser}
+[exec] (Xmind) {/usr/local/xmind/xmind}
+[exec] (Pidgin) {pidgin}
 [nop] (----------)
 [submenu] (fluxbox)
 	[include] (/etc/X11/fluxbox/fluxbox-menu)
