@@ -1,20 +1,20 @@
 === TODO ===
-* pager (fbpager)
-* iconbar
-* wbar
-* don't show title bar on certain windows: http://fluxbox-wiki.org/index.php?title=Borderless_windows
 * edit menu
 * add mouse clicks
-* add pager and clock
-* modify toolbar settings in init
 * add startup scripts
-* for fonts: http://menzonius.wordpress.com/2006/07/12/arch-linux-fluxbox-nice-gtk-fonts/
 
 == GUIDES ==
 * http://urukrama.wordpress.com/openbox-guide/
+* for fonts: http://menzonius.wordpress.com/2006/07/12/arch-linux-fluxbox-nice-gtk-fonts/
 
 == DEPENDENCIES ==
 * xcompmgr
 * feh
 * gtk-chtheme
 * gnome-color-chooser
+* gtk-theme-switch2
+
+== HOW TO INSTALL ==
+
+1. install theme (untar to ~/.themes)
+2. install font (copy to ~/.fonts)
