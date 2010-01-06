@@ -3,4 +3,4 @@
 
 *font: AvantGarde LT Medium-7.4
 background: centered
-background.pixmap: ~/.fluxbox/backgrounds/future.jpg
+background.pixmap: ~/.fluxbox/backgrounds/curr_bg.jpg
